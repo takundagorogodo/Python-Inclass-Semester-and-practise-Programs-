@@ -1,0 +1,11 @@
+{
+    "age": 30,
+    "city": "new york",
+    "firstname": "takunda",
+    "hasChildren": false,
+    "titles": [
+        "engineer",
+        "programmer",
+        "developer"
+    ]
+}

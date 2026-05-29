@@ -1,0 +1,11 @@
+name  = "Mark"
+print(name[1])
+print(name[1:])
+print(name[0:4])
+print(len(name))
+print(name.find('zzzz'))
+print(name.upper())
+print(name.lower())
+print(name.replace('Mark', 'taku'))
+print(name)
+print(type(name))
